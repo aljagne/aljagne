@@ -49,8 +49,6 @@
 
 <img align="left" alt="aljagne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aljagne&show_icons=true&hide_border=true" />
 
-(https://github-readme-stats.vercel.app/api/pin/?aljagne=anuraghazra&repo=github-readme-stats)
-
 [website]: https://aljagne.com
 [twitter]: https://twitter.com/aljagne
 [youtube]: https://youtube.com/aljagne
