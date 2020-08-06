@@ -43,6 +43,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Moroccan Vegetarian Tagine Card](https://dev.to/aljagne/moroccan-vegetarian-tagine-card-520i)
+- [Discover Morocco](https://dev.to/aljagne/discover-morocco-1odl)
 <!-- BLOG-POST-LIST:END -->
 ---
 
