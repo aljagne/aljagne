@@ -43,6 +43,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Create An Amazing GitHub Profile README](https://dev.to/aljagne/how-to-create-an-amazing-github-profile-readme-529c)
 - [Moroccan Vegetarian Tagine Card](https://dev.to/aljagne/moroccan-vegetarian-tagine-card-520i)
 - [Discover Morocco](https://dev.to/aljagne/discover-morocco-1odl)
 <!-- BLOG-POST-LIST:END -->
