@@ -40,7 +40,6 @@
 <br />
 
 ---
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How To Create An Amazing GitHub Profile README](https://dev.to/aljagne/how-to-create-an-amazing-github-profile-readme-529c)
@@ -51,6 +50,9 @@
 ---
 
 <img align="left" alt="aljagne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aljagne&show_icons=true&hide_border=true" />
+
+### 🛠 Latest Activitys 
+<!--START_SECTION:activity-->
 
 [website]: https://aljagne.com
 [twitter]: https://twitter.com/aljagne
