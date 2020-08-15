@@ -53,6 +53,7 @@
 
 ### 🛠 Latest Activitys 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [website]: https://aljagne.com
 [twitter]: https://twitter.com/aljagne
