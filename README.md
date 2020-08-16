@@ -1,6 +1,22 @@
 ### Hi there, I'm Alieu Jagne - aka [aljagne][website] 👋
 
+<a href="https://codesandbox.io/u/aljagne">
+  <img align="left" alt="Alieu Jagne | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/aljagne">
+  <img align="left" alt="Alieu Jagne | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://dev.to/aljagne">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Alieu Jagne's DEV Profile" height="30" width="30">
+</a>
+<a href="https://discord.gg/DarkLio#2879">
+  <img align="left" alt="Alieu Jagne" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />
+<br />
+
 ## I'm a Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!
+
 - 🔭 I’m currently working on a [eCommerce Project 🛒][website], and studing at the same time!
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
@@ -40,8 +56,11 @@
 <br />
 
 ---
+
 ### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [How To Create An Amazing GitHub Profile README](https://dev.to/aljagne/how-to-create-an-amazing-github-profile-readme-529c)
 - [Moroccan Vegetarian Tagine Card](https://dev.to/aljagne/moroccan-vegetarian-tagine-card-520i)
 - [Discover Morocco](https://dev.to/aljagne/discover-morocco-1odl)
@@ -53,13 +72,14 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
+
 <!--START_SECTION:activity-->
-1. undefined
-2. undefined
-3. undefined
-4. undefined
-5. undefined
+
+1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 </details>
@@ -69,6 +89,7 @@
 [youtube]: https://youtube.com/aljagne
 [instagram]: https://instagram.com/aljagne
 [linkedin]: https://www.linkedin.com/in/aljagne/
+
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
