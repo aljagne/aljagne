@@ -15,9 +15,9 @@
 <br />
 <br />
 
-## I'm a Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!
+## I'm an Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!
 
-- 🔭 I’m currently working on a [eCommerce Project 🛒][website], and studying at the same time!
+- 🔭 I’m currently working on an [eCommerce Project 🛒][website], and studying at the same time!
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Finish My eCommerce Project & Contribute to some Open Source projects
