@@ -68,8 +68,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljagne&show_icons=true&locale=en&layout=compact" alt="aljagne" />
 
 <img align="left" alt="aljagne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aljagne&show_icons=true&hide_border=true" />
+<br />
+<br />  
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aljagne&" alt="aljagne" />
 
 
 [website]: https://www.aljagne.me
