@@ -68,7 +68,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aljagne&show_icons=true&locale=en&layout=compact" alt="aljagne" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aljagne&show_icons=true&locale=en&layout=compact" alt="aljagne" />
 
 <img align="left" alt="aljagne's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aljagne&show_icons=true&hide_border=true" />
 <br />
