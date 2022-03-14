@@ -5,7 +5,7 @@
 
 ## I'm an Enthusiastic, Self-Motivated, Entrepreneur, Developer, and Fitness Freak!
 
-- 🔭 I’m currently working on an [Fitness App Project][website], and studying at the same time!
+- 🔭 I’m currently working on an [Fitness App Project][365fitpro], and studying at the same time!
 - 🌱 I’m currently learning everything 😂
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Finish My StartUp Fitness App Project & Contribute to some Open Source projects
@@ -51,6 +51,6 @@
 [youtube]: https://youtube.com/aljagne
 [instagram]: https://instagram.com/aljagne
 [linkedin]: https://www.linkedin.com/in/aljagne/
-[Fitness App Project]: https://www.365fitpro.com
+[365fitpro]: https://www.365fitpro.com
 [Discord]: https://discord.gg/DarkLio#2879
 
