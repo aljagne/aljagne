@@ -30,8 +30,8 @@
     <h2>GitHub Profile Stats 📊</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=aljagne&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljagne&show_icons=true&hide_border=true&theme=dark" height="175px">
-    <h2>GitHub Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=aljagne&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+<!--     <h2>GitHub Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=aljagne&theme=onedark&no-frame=true&no-bg=true&theme=discord"> -->
 </div>
   
  ---
