@@ -46,7 +46,7 @@
 
 
 
-[website]: https://www.aljagne.me
+[website]: https://www.aljagne.live
 [twitter]: https://twitter.com/aljagne
 [youtube]: https://youtube.com/aljagne
 [instagram]: https://instagram.com/aljagne
